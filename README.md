@@ -1,3 +1,12 @@
+# React Password Generator
+
+<img src="https://github.com/Mayank-141-Shaw/react-password-generator/blob/main/app-view.png" alt="app-view" />
+
+### Generator app
+<br />
+<br/>
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
